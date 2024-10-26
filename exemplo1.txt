@@ -1,0 +1,10 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 8223-76AE
+
+ Pasta de C:\vsc1\aulagit1
+
+26/10/2024  17:38    <DIR>          .
+26/10/2024  17:38    <DIR>          ..
+26/10/2024  17:38                 0 exemplo1.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   13.179.211.776 bytes dispon°veis
